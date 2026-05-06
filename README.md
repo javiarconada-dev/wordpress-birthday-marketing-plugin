@@ -116,4 +116,4 @@ GPL-2.0+
 
 ## Author
 
-Built with ❤️ for small WooCommerce stores.
+Javier Martin
